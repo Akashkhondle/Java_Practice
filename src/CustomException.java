@@ -43,7 +43,7 @@ public class CustomException
         }
 
         throw new WrongCredentials("This is unchecked custom exception");
-        //System.out.println("after");
+
 
 
     }
